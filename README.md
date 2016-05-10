@@ -1,5 +1,5 @@
 # multi-screen-projection
-To project animation in a device with two projectors
+# To project animation in a device with two projectors
 1.Please open the test3_10.vs to start.
 2.Up to now, the project has three functions: 
       "找点"：to calibrate the 3D points coordinates into the 2D screens. The device consists of 14 X 13 fishlines and we are going to project some dynamic things through these lines. First we need to find out the relation between the fishlines and screens.
